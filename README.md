@@ -24,6 +24,8 @@ access_token=
 
 ### Run python directly
 ```
+In Terminal
+
 pip install -r requirements.txt
 
 python chatbot.py
