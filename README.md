@@ -22,9 +22,8 @@ access_token=
 
 ## How to run
 
-### Run python directly
+### Run python directly , in Ternimal
 ```
-In Terminal
 
 pip install -r requirements.txt
 
